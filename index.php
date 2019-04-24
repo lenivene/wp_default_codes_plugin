@@ -9,6 +9,6 @@
  * Text Domain: lenivene
 **/
 if( !defined( 'ABSPATH' ) ) { header( 'Location: /' ); exit; }
-define( 'LENIVENE__DIR', plugin_dir_path( __FILE__ ) );
-define( 'LENIVENE__URL', plugin_dir_url( __FILE__ ) );
-define( 'LENIVENE__MIN_WP_VERSION', '4.0' ); // number version
+define( 'bL__DIR', plugin_dir_path( __FILE__ ) );
+define( 'bL__URL', plugin_dir_url( __FILE__ ) );
+define( 'bL__MIN_WP_VERSION', '4.0' ); // number version
